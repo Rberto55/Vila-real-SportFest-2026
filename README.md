@@ -129,14 +129,7 @@ Cuando terminé los cambios en la rama secundaria, hice un pull request desde Gi
 
 ## La mayor dificultad que encontré y cómo la solucioné
 
-Lo que más me costó fue ajustar el hero section con la imagen de fondo para que el texto se viera bien.
-
-Al principio la imagen no ocupaba todo el alto y el texto quedaba mal colocado.
-
-Cómo lo solucioné:  
-Busqué en internet cómo hacer un hero section con Bootstrap y encontré la solución. Usé min-height para el alto, imagen de fondo con una capa oscura encima, y cover para que la imagen cubriera todo. También tuve que ajustar el texto para que quedara centrado. Estos cambios los hice en la rama diseno-hero para poder probar sin miedo a romper lo demás.
-
-Otra cosa que me costó fue que las imágenes de las tarjetas se deformaban. Lo solucioné dándoles un alto fijo para que todas tuvieran el mismo tamaño.
+Lo que me costó fue que las imágenes de las tarjetas se deformaban. Lo solucioné dándoles un alto fijo para que todas tuvieran el mismo tamaño.
 
 <br>
 
