@@ -6,13 +6,13 @@ Descripción del proyecto
 Página web informativa del Vila-real SportFest 2026, evento deportivo con torneos de fútbol 7, basket 3x3, carrera 5K, pádel y fitness. Organizado por el Ayuntamiento de Vila-real para el 10-12 abril 2026.
 
 Secciones y columnas Bootstrap
-- Navbar: container
-- Hero: container
-- Qué es: row + col-md-6 + col-md-6 
-- Modalidades: row + 4x col-lg-3 
-- "Programa e info": row + col-lg-7 + col-lg-5 
-- Contacto: container + col-lg-8
-- Footer: container + flex-md-row
+- Navbar
+- Hero
+- Qué es 
+- Modalidades
+- Programa e info
+- Contacto
+- Footer
 
  Componentes Bootstrap usados
 Navbar, grid system, cards, botones , list-group, badges, utilidades.
