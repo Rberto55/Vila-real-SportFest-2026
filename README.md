@@ -23,8 +23,6 @@ Historial de commits
 3. feat: sección programa con grid + cards y badges
 4. feat: fusión rama diseno-hero vía pull request
 
- Mayor dificultad
-Hacer las cards de igual altura en móvil. Solucionado con h-100 en cards y object-fit: cover en imágenes CSS. Probado con F12 modo responsive.
 
  Capturas
 📁 [CAPTURAS](./CAPTURAS/)
